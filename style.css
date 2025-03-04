@@ -11,3 +11,18 @@ h1 {
     color: #2c3e50;
     margin-top: 20px;
 }
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+* {
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+   border: 2px;
+   color: #333;
+}
